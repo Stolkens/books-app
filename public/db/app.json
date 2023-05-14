@@ -1,0 +1,19 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Lords of the ring",
+      "author": "JRR Tolkien"
+    },
+    {
+      "id": 2,
+      "title": "Hobbit",
+      "author": "JRR Tolkien"
+    },
+    {
+      "id": 3,
+      "title": "Magiczne drzewo",
+      "author": "Andrzej Maleszka"
+    }
+  ]
+}
